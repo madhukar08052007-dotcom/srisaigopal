@@ -1,0 +1,1 @@
+No Content: https://sri-gopal-style.base44.app/api/apps/manifests/6a33f962eadfc7341f0f0850/manifest.json
